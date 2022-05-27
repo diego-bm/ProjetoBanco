@@ -1,0 +1,40 @@
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfo.cs
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.exe
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.deps.json
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.runtimeconfig.json
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.runtimeconfig.dev.json
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.dll
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ref\ProjetoBanco.dll
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.pdb
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.dll
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ref\ProjetoBanco.dll
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.pdb
+C:\Workspace-fatec\Projeto\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.genruntimeconfig.cache
+D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.AssemblyReference.cache
+D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfoInputs.cache
+D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfo.cs
+D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.dll
+D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ref\ProjetoBanco.dll
+D:\ProjetoBancoSolution - 12.05.2022\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.pdb
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.AssemblyInfo.cs
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.dll
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ref\ProjetoBanco.dll
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.pdb
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.exe
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.deps.json
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.runtimeconfig.json
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.runtimeconfig.dev.json
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.dll
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ref\ProjetoBanco.dll
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\bin\Debug\net5.0\ProjetoBanco.pdb
+C:\Users\2880972113033\Desktop\ProjetoBancoSolution\ProjetoBanco\obj\Debug\net5.0\ProjetoBanco.genruntimeconfig.cache
